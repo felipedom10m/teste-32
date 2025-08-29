@@ -1,0 +1,14 @@
+{
+  "email": "cesarmarketingdigital10@gmail.com",
+  "nome": "Felipe de Sousa",
+  "cpf": "02746294885",
+  "selectedUpsells": [
+    1
+  ],
+  "transactionId": 95553847,
+  "timestamp": "2025-08-29T12:30:23.848Z",
+  "productInfo": {
+    "name": "teste-32",
+    "repositoryUrl": "https://github.com/felipedom10m/teste-32"
+  }
+}
